@@ -95,27 +95,6 @@ header{
     margin-top: 45px;
 }
 /*article end*/
-/*blog start*/
-.b_content{
-    overflow: hidden;
-}
-.b_single{
-    width: 47.5%;
-    float: left;
-    margin: 40px 0 65px;
-}
-.b_single:nth-child(even){
-    margin-left: 5%;
-}
-./*b_single:nth-child(even){
-    margin-right: 0;
-}*/
-.b_img{}
-.b_img img{
-    width: 100%;
-    margin-bottom: 30px;
-}
-/*blog end*/
 /*newsletter start*/
 .news{
     background-color: #f0f0f0;
